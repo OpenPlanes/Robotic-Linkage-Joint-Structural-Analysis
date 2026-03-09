@@ -21,7 +21,7 @@ Key geometric features evaluated:
 - Pin diameter
 - Fillet radius at transition regions
 - Edge distance from pin center to outer boundary
-- 
+  
 These parameters strongly influence stress concentration and structural reliability.
 
 <img width="962" height="648" alt="simple knuckle joint" src="https://github.com/user-attachments/assets/3fd14758-b0e8-4d7b-9e1a-4d8150bd2cb2" />
